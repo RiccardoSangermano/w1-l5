@@ -1,1 +1,54 @@
-/* Your styles here */
+body{
+    text-align: center;
+    margin: auto;
+    line-height: 1.65;
+    font-size: 1.2em;
+    font-family:  "Prata", serif;
+    }
+
+h1{ font-size: 2em;
+color:#25a2c3 ;
+font-weight: bold;
+font-family: "Montserrat", serif;
+}
+h2{
+    font-size: 1.30em;
+    font-weight: 400px;
+    color:#25a2c3 ;
+}
+h3{
+    font-size: 1.25em;
+    font-weight: 400px;
+    color:#25a2c3 ;
+}
+
+footer{
+    background-color:#25a2c3;
+
+    
+}
+
+.colo{
+    color: #c8e7f0;
+}
+
+
+.fondo {
+    font-size: 1.50em;
+    font-weight: 400;
+    color: #c8e7f0;
+}
+  
+button{
+    background-color:#f04c2f;
+    font-family: "Montserrat", serif;
+    font-size: bold;
+    color: white;
+
+
+}
+.ceo{
+    color: bisque;
+
+}
+   
